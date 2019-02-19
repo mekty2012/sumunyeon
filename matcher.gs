@@ -65,7 +65,7 @@ function matcher(OUTPUT, availableColumn, scheduleColumn, resultColumn, rowStart
   }
 }
 function timeTextToArray(text, OUTPUT) {
-  // js 진짜 구리다 이거 코틀린이면 세줄에 끝나는데
+  // 이거 코틀린이면 세줄에 끝나는데
   var result = [];
   
   var days = text.split(",");
