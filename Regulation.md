@@ -1,3 +1,5 @@
+Warning : This file is unofficial stylized version, and may be invalidated. I will keep it up to date as possible, however it is not guaranteed. 
+
 # 수학문제연구회 회칙
 - [제1장 총강](#제1장-총강)
   - [제1조 명칭](#제1조-명칭)
